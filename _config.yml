@@ -25,7 +25,9 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>I got to know the data area in the master's degree in mechanical engineering working with functional optimization to minimize the volume of structures. I am currently a data scientist at bowe and I work with data ingestion using OAuth2 scope to extract data from GoogleAds API, GoogleAnalytics API, LinkedinAds API.
+                        I'm also building WebApps with Streamlit for data science projects and Flask in the API development. I use Python for the development of activities, having knowledge in Numpy, Pandas, Matplotlib, Seaborn, Scikitlearn, Pytorch, NLTK, StatsModel, Scipy.
+                        I am a doctoral student in computer science at UFMS and I am developing a project that uses BERT for Question and Answering. I'm using GCP and AWS for serverless applications and basic Power BI to build reports. Knowledge of SQL, Linux, Docker, Github action.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
