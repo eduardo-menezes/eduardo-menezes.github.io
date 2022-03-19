@@ -3,16 +3,24 @@
 - company: Bowe
   position: Data Scientist
   duration: Nov, 2021 &mdash; Present
-  summary: |
-    Extração de dados do GoogleAds, trazendo as recomendações do google ads, volume de buscas de palavras chaves, nível de competição;
-    Extração de dados do Google PageSpeed Insights para levar espaços de melhoria para o time de tecnologia;
-    Criação de um modelo BERT para Question and Answer com Pytorch para auxiliar o time de copy a entender a posição da concorrência quanto a certo conteúdo, utilizando-se de scrapy de páginas;
-    Desenvolvimento de protótipos com streamlit para o modelo BERT;
-    Construção de modelo SARIMA para previsção de Leads;
-    Criação de códigos para extração de social data do Linkedin;
-    Solução de problema de acesso a url de imagem de criativos de linkedin e facebook;
-    Criação de requests para extrair dados da Moz API para fornecer dados de Page Authority e Domain Authority;
-    Otimização de códigos;
+  summary: "* GoogleAds data extraction, bringing google ads recommendations, keyword search volume, competition level; <br>
+            * Data extraction from Google PageSpeed Insights to bring room for improvement to the technology team; <br>
+            * Creation of a BERT model for Question and Answer with Pytorch to help the copy team understand the position of the competition regarding certain content, using page scrapy; <br>
+            * Development of prototypes with streamlit for the BERT model;
+            * Construction of SARIMA model to forecast Leads generation; <br>
+            * Creation of codes to extracting social and demographic data from Linkedin; <br>
+            * Troubleshooting accessing image url of linkedin and facebook creatives; <br>
+            * Creation of requests to extract data from the Moz API to provide Page Authority and Domain Authority data; <br>
+            * Code optimization;"
+  # summary: "* Extração de dados do GoogleAds, trazendo as recomendações do google ads, volume de buscas de palavras chaves, nível de competição; <br>
+  #           * Extração de dados do Google PageSpeed Insights para levar espaços de melhoria para o time de tecnologia; <br>
+  #           * Criação de um modelo BERT para Question and Answer com Pytorch para auxiliar o time de copy a entender a posição da concorrência quanto a certo conteúdo, utilizando-se de scrapy de páginas; <br>
+  #           * Desenvolvimento de protótipos com streamlit para o modelo BERT;
+  #           * Construção de modelo SARIMA para previsção de Leads; <br>
+  #           * Criação de códigos para extração de social data do Linkedin; <br>
+  #           * Solução de problema de acesso a url de imagem de criativos de linkedin e facebook; <br>
+  #           * Criação de requests para extrair dados da Moz API para fornecer dados de Page Authority e Domain Authority; <br>
+  #           * Otimização de códigos;"
 
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
