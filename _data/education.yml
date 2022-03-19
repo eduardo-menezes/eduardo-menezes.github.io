@@ -1,13 +1,19 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bachelor of Civil Engeneering
+  uni: Federal University of Mato Grosso do Sul
+  year: 2019
+  # awards:
+  #   - award: Summa Cumme Laude graduate
+  summary: Kuenzi model to analyze the connections of wooden pieces with metallic pins, predicting the behavior of the joints of nailed wood beams.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master's Degree in Mechanical Engeneering
+  uni: State University of Santa Catarina
+  year: 2023
+  # award: Most likely to succeed
+  summary: Quantification of uncertainties by Monte Carlo Simulation, Application of mathematical programming methods, Quantification of Damage, Calculation of failure probability.
+
+- degree: Special PhD in Computer Science
+  uni: Federal University of Mato Grosso do Sul
+  year: 2025
+  # award: Most likely to succeed
+  summary: Bidirectional Encoder Representations from Transformers applied to marketing
