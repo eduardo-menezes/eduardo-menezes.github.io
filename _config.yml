@@ -1,0 +1,67 @@
+# Site settings
+title: "Eduardo Menezes"
+description: "A resume template for Jekyll and GitHub Pages sites."
+# baseurl: ""
+# url: "https://eduardo-menezes.github.io"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Eduardo O. Menezes"
+resume_title:                   "Data Scientist"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "datascience.eduardomenezes@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "67981086738"
+resume_contact_address:         "Vila Velha, ES"
+
+resume_header_contact_info:     "Vila Velha• 29101-595 • datascience.eduardomenezes@gmail.com"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>I got to know the data area in the master's degree in mechanical engineering working with functional optimization to minimize the volume of structures. I am currently a data scientist at bowe and I work with data ingestion using OAuth2 scope to extract data from GoogleAds API, GoogleAnalytics API, LinkedinAds API.
+                        I'm also building WebApps with Streamlit for data science projects and Flask in the API development. I use Python for the development of activities, having knowledge in Numpy, Pandas, Matplotlib, Seaborn, Scikitlearn, Pytorch, NLTK, StatsModel, Scipy.
+                        I am a doctoral student in computer science at UFMS and I am developing a project that uses BERT for Question and Answering. I'm using GCP and AWS for serverless applications and basic Power BI to build reports. Knowledge of SQL, Linux, Docker, Github action.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        ""
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+# resume_section_projects:        true
+#resume_section_skills:          true
+# resume_section_recognition:     true
+resume_section_links:           true
+# resume_section_associations:    true
+resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/eduardo-menezes"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/eduardooliveiramenezes"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "https://www.eduardomenezes.dev/blog"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
