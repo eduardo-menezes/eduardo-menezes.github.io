@@ -2,7 +2,7 @@
 title: "Eduardo Menezes"
 description: "A resume template for Jekyll and GitHub Pages sites."
 # baseurl: ""
-url: "eduardomenezes.dev"
+url: "https://eduardomenezes.dev"
 
 # Build settings
 markdown: kramdown
