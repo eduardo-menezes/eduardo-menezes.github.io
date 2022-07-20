@@ -19,10 +19,10 @@ resume_title:                   "Data Scientist"
 resume_contact_email:           "datascience.eduardomenezes@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "67981086738"
-resume_contact_address:         "Vila Velha, ES"
+resume_contact_telephone:       "64999097858"
+resume_contact_address:         "Jonville, SC"
 
-resume_header_contact_info:     "Vila Velha• 29101-595 • datascience.eduardomenezes@gmail.com"
+resume_header_contact_info:     "Joinville 89218-185 • datascience.eduardomenezes@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>I got to know the data area in the master's degree in mechanical engineering working with functional optimization to minimize the volume of structures. I am currently a data scientist at bowe and I work with data ingestion using OAuth2 scope to extract data from GoogleAds API, GoogleAnalytics API, LinkedinAds API.
